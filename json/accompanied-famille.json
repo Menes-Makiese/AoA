@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "ville": "Orlando",
+        "pays": "Etats-Unis",
+        "continent": "Amerique",
+        "budget": 1872,
+        "description": "Célèbre pour ses parcs à thème, offrant des expériences adaptées à toute la famille.",
+        "image": "images/orlando.jpg"
+    },
+    {
+        "id": 2,
+        "ville": "Santiago",
+        "pays": "Chili",
+        "continent": "Amerique",
+        "budget": 892,
+        "description": "Offre une combinaison d'activités culturelles, de parcs, des sorties en plein air pour les familles.",
+        "image": "images/santiago.jpg"
+    },
+    {
+        "id": 3,
+        "ville": "Quito",
+        "pays": "Equateur",
+        "continent": "Amerique",
+        "budget": 664,
+        "description": "Une ville entourée de montagnes avec des parcs, des musées et des sites historiques pour les familles.",
+        "image": "images/quito.jpg"
+    },
+    {
+        "id": 4,
+        "ville": "Tokyo",
+        "pays": "Japon",
+        "continent": "Asie",
+        "budget": 560,
+        "description": "Une métropole sûre avec des parcs à thème, des aquariums et des quartiers animés.",
+        "image": "images/tokyo.jpg"
+    },
+    {
+        "id": 5,
+        "ville": "Séoul",
+        "pays": "Corée du Sud",
+        "continent": "Asie",
+        "budget": 845,
+        "description": "Une ville familiale avec des parcs, des palais historiques et des activités culturelles.",
+        "image": "images/seoul.jpg"
+    },
+    {
+        "id": 6,
+        "ville": "Singapour",
+        "pays": " ",
+        "continent": "Asie",
+        "budget": 1190,
+        "description": "Une ville-État propre et sécuritaire offrant des jardins botaniques, des zoos et des attractions.",
+        "image": "images/singapour.jpg"
+    },
+    {
+        "id": 7,
+        "ville": "Copenhague",
+        "pays": "Danemark",
+        "continent": "Europe",
+        "budget": 1085,
+        "description": "Une ville conviviale avec des parcs d'attractions, des musées interactifs et des espaces verts.",
+        "image": "images/copenhague.jpg"
+    },
+    {
+        "id": 8,
+        "ville": "Munich",
+        "pays": "Allemagne",
+        "continent": "Europe",
+        "budget": 1155,
+        "description": "Une combinaison d'activités familiales variées d'espaces verts, d'événements culturels et d'attractions.",
+        "image": "images/munich.jpg"
+    },
+    {
+        "id": 9,
+        "ville": "Amsterdam",
+        "pays": "Pays-Bas",
+        "continent": "Europe",
+        "budget": 595,
+        "description": "Une ville aux canaux pittoresques avec des musées interactifs, des parcs et des croisières familiales.",
+        "image": "images/amsterdam.jpg"
+    },
+    {
+        "id": 10,
+        "ville": "Sydney",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 730,
+        "description": "Sydney est une ville avec des plages, des parcs, des zoos et des attractions familiales.",
+        "image": "images/sydney.jpg"
+    },
+    {
+        "id": 11,
+        "ville": "Auckland",
+        "pays": "Nouvelle-Zélande",
+        "continent": "Oceanie",
+        "budget": 700,
+        "description": "La ville d'Auckland offre des parcs, des activités en plein air et des expériences familiales.",
+        "image": "images/auckland.jpg"
+    },
+    {
+        "id": 12,
+        "ville": "Brisbane",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 1242,
+        "description": "Brisbane est une ville avec de nombreux des parcs, des espaces de jeux et des événements familiaux.",
+        "image": "images/brisbane.jpg"
+    },
+    {
+        "id": 13,
+        "ville": "Le Cap",
+        "pays": "Afrique du Sud",
+        "continent": "Afrique",
+        "budget": 1500,
+        "description": "Une variété d'activités familiales, y compris des plages, des parcs animaliers, des visites culturelles.",
+        "image": "images/le-cap.jpg"
+    },
+    {
+        "id": 14,
+        "ville": "Marrakech",
+        "pays": "Maroc",
+        "continent": "Afrique",
+        "budget": 315,
+        "description": "La ville de Marrakech est connue pour son ambiance animée, ses marchés colorés et ses jardins historiques.",
+        "image": "images/marrakech.jpg"
+    },
+    {
+        "id": 15,
+        "ville": "Nairobi",
+        "pays": "Kenya",
+        "continent": "Afrique",
+        "budget": 280,
+        "description": "La ville offre des opportunités de safari à proximité et des attractions éducatives comme le Giraffe Centre.",
+        "image": "images/nairobi.jpg"
+    }
+]

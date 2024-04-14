@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "ville": "Lagos",
+        "pays": "Nigeria",
+        "continent": "Afrique",
+        "budget": 750,
+        "description": " Lagos est la plus grande ville du Nigeria. C'est un centre majeur pour les affaires, la finance.",
+        "image": "images/lagos.jpg"
+    },
+    {
+        "id": 2,
+        "pays": "Afrique du Sud",
+        "ville": "Johannesburg",
+        "continent": "Afrique",
+        "budget": 870,
+        "description": "La ville de Johannesburg, souvent surnommée Joburg ou Jozi, abrite de nombreuses institutions financières.",
+        "image": "images/johannesburg.jpg"
+    },
+    {
+        "id": 3,
+        "pays": "Canada",
+        "ville": "Montréal",
+        "continent": "Amerique",
+        "budget": 525,
+        "description": "Connue pour sa culture bilingue, son coût de la vie abordable et une infrastructure technologique solide.",
+        "image": "images/montreal.jpg"
+    },
+    {
+        "id": 4,
+        "pays": "Etats-Unis",
+        "ville": "San Francisco",
+        "continent": "Amerique",
+        "budget": 1125,
+        "description": "Offre des opportunités dans le domaine de la technologie et offre une proximité avec la Silicon Valley.",
+        "image": "images/san-francisco.jpg"
+    },
+    {
+        "id": 5,
+        "pays": "Etats-Unis",
+        "ville": "Seattle",
+        "continent": "Amerique",
+        "budget": 915,
+        "description": "Propose une scène technologique florissante. Entourée de montagnes et d'eau, pour un cadre naturel agréable.",
+        "image": "images/seattle.jpg"
+    },
+    {
+        "id": 6,
+        "pays": "Kenya",
+        "ville": "Nairobi",
+        "continent": "Afrique",
+        "budget": 635,
+        "description": "Important centre économique en Afrique de l'Est, ce qui en fait un endroit attrayant pour travailler.",
+        "image": "images/nairobi.jpg"
+    },
+    {
+        "id": 7,
+        "pays": "Australie",
+        "ville": "Sydney",
+        "continent": "Oceanie",
+        "budget": 730,
+        "description": "Son fuseau horaire favorable pour le travail avec l'Asie est un atout pour les professionnels travaillant à distance.",
+        "image": "images/sydney.jpg"
+    },
+    {
+        "id": 8,
+        "pays": "Australie",
+        "ville": "Melbourne",
+        "continent": "Oceanie",
+        "budget": 655,
+        "description": "Connue pour sa scène culturelle, ses cafés et ses parcs, Melbourne offre un environnement stimulant.",
+        "image": "images/melbourne.jpg"
+    },
+    {
+        "id": 9,
+        "pays": "Allemagne",
+        "ville": "Berlin",
+        "continent": "Europe",
+        "budget": 525,
+        "description": "Une ville créative, multiculturelle et abordable. La qualité de vie en font un choix populaire pour le télétravail.",
+        "image": "images/berlin.jpg"
+    },
+    {
+        "id": 10,
+        "pays": "Pays-bas",
+        "ville": "Amsterdam",
+        "continent": "Europe",
+        "budget": 595,
+        "description": "Amsterdam est une ville progressive avec une atmosphère détendue et une culture axée sur l'innovation.",
+        "image": "images/amsterdam.jpg"
+    },
+    {
+        "id": 11,
+        "pays": "Royaume-uni",
+        "ville": "Londres",
+        "continent": "Europe",
+        "budget": 715,
+        "description": "La ville de Londres offre une grande diversité d'opportunités professionnelles dans divers secteurs.",
+        "image": "images/londres.jpg"
+    },
+    {
+        "id": 12,
+        "pays": " ",
+        "ville": "Singapour",
+        "continent": "Asie",
+        "budget": 825,
+        "description": "Un centre financier et commercial majeur en Asie, offrant de nombreuses opportunités professionnelles.",
+        "image": "images/singapour.jpg"
+    },
+    {
+        "id": 13,
+        "pays": "",
+        "ville": "Hong Kong",
+        "continent": "Asie",
+        "budget": 815,
+        "description": "Offre une multitude d'opportunités dans les secteurs de la finance, de la technologie et plus encore.",
+        "image": "images/hong-kong.jpg"
+    },
+    {
+        "id": 14,
+        "pays": "Japon",
+        "ville": "Tokyo",
+        "continent": "Asie",
+        "budget": 460,
+        "description": "Un environnement de travail stimulant ainsi qu'une qualité de vie élevée, avec une infrastructure moderne.",
+        "image": "images/tokyo.jpg"
+    },
+    {
+        "id": 15,
+        "pays": "Nouvelle-Zelande",
+        "ville": "Auckland",
+        "continent": "Oceanie",
+        "budget": 460,
+        "description": "Auckland offre un équilibre unique entre vie urbaine dynamique et accès facile à la nature.",
+        "image": "images/auckland.jpg"
+    }
+
+]

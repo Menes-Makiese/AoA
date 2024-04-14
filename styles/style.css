@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+.accompanied-section,
+.alone-section {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #E5EAF0;
+}
+
+.accompanied-section h2,
+.alone-section h2 {
+    margin-bottom: 100px;
+    font-weight: 400;
+    font-size: 2.2rem;
+    font-family: "Covered By Your Grace";
+}
+
+#scrollBtn {
+    position: fixed;
+    display: none;
+    width: 45px;
+    height: 45px;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    padding: 10px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    z-index: 999;
+}
+
+.box-container {
+    max-width: 1200px;
+    width: 70%;
+    z-index: 1;
+}
+
+.slider-wrapper {
+    position: relative;
+}
+
+.slider-wrapper .slide-button {
+    position: absolute;
+    top: 50%;
+    height: 40px;
+    width: 40px;
+    color: #fff;
+    background: #000;
+    font-size: 2rem;
+    cursor: pointer;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    transform: translateY(-50%);
+    z-index: 99;
+}
+
+.slider-wrapper .slide-button:hover {
+    background: #444;
+}
+
+.slider-wrapper .slide-button.bef-slide {
+    left: -35px;
+    z-index: 100;
+}
+
+.slider-wrapper .slide-button.aft-slide {
+    right: -35px;
+    z-index: 100;
+}
+
+.slider-wrapper .box-list {
+    display: grid;
+    gap: 18px;
+    overflow-x: auto;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.slider-wrapper .box-list .box {
+    width: 225px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.box {
+    border-radius: 5%;
+    box-shadow: 0px 0px 6px gray;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.box-element {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 1em;
+    line-height: 1.5em;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+
+
+@media screen and (max-width: 630px) {
+
+    .box-filter {
+        width: 350px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .filtres {
+        width: 100%;
+    }
+
+    .continent-form {
+        align-items: center;
+    }
+}

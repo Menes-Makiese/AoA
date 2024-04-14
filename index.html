@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8" />
+    <title>AOA | Alone OR Accompanied</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/accueil.css">
+    <link rel="stylesheet" href="styles/alone-section.css">
+    <link rel="stylesheet" href="styles/accompanied-section.css">
+    <link rel="stylesheet" href="styles/fiches-section.css">
+    <script type="module" src="scripts/script.js"></script>
+    <script type="module" src="scripts/alone-travailler.js" defer></script>
+    <script type="module" src="scripts/alone-reposer.js" defer></script>
+    <script type="module" src="scripts/alone-decouverte.js" defer></script>
+    <script type="module" src="scripts/alone-amuser.js" defer></script>
+    <script type="module" src="scripts/alone-tout.js" defer></script>
+    <script type="module" src="scripts/accompanied-amoureux.js" defer></script>
+    <script type="module" src="scripts/accompanied-amis.js" defer></script>
+    <script type="module" src="scripts/accompanied-famille.js" defer></script>
+    <script type="module" src="scripts/accompanied-seminaire.js" defer></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,0,0">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
+</head>
+
+<body>
+    <header id="accueil" class="accueil-section section">
+        <div class="icone-accueil">
+            <a href="index.html">
+                <img src="images/favicon-32x32.png" alt="logo aoc" class="lien_icone_accueil">
+            </a>
+            <p>Aoa.com</p>
+        </div>
+        <div class="video_container">
+            <div class="video alone" id="scrollToAlone">
+                <div class="video_aloneElement">
+                    <video src="images/alone.mp4" preload="auto" loop muted></video>
+                </div>
+            </div>
+            <div id="typedtext"></div>
+            <div class="video accompanied" id="scrollToAccompanied">
+                <div class="video_accompaniedElement">
+                    <video src="images/accompanied.mp4" preload="auto" loop muted></video>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+
+        <section class="alone-section section">
+            <h2>Quel est l'objectif de votre voyage ?</h2>
+            <div class="box-container">
+                <div class="slider-wrapper">
+                    <button class="bef-slide slide-button material-symbols-rounded">chevron_left</button>
+                    <div class="box-list">
+                        <div class="box travail">
+                            <div class="box-element">
+                                <h3>Pour Travailler</h3>
+                                <p>Trouvez un environnement qui vous permet d'etre à 100% pour la réalisation de vos
+                                    objectifs.</p>
+                            </div>
+                        </div>
+                        <div class="box reposer">
+                            <div class="box-element">
+                                <h3>Se Reposer</h3>
+                                <p>Pourquoi pas quitter le stress du quotidien, le temps de ressourcer son corps et son
+                                    esprit.</p>
+                            </div>
+                        </div>
+                        <div class="box decouverte">
+                            <div class="box-element">
+                                <h3>La decouverte</h3>
+                                <p>L'instant le plus heureux d'une vie humaine est le départ vers une terre inconnue.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="box amuser">
+                            <div class="box-element">
+                                <h3>S'amuser</h3>
+                                <p>Vous avez bien(trop) travaillé ? Partez rencontrer de nouvelle personne, danser,
+                                    rire.</p>
+                            </div>
+                        </div>
+                        <div class="box tout">
+                            <div class="box-element">
+                                <h3>Un peu de tout !</h3>
+                                <p>Nous avons ce qu'il vous faut ..travailler, se reposer, découvrir et s'amuser!</p>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="aft-slide slide-button material-symbols-rounded">chevron_right</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="accompanied-section section">
+            <h2>Qui aura le plaisir de vous accompagnez ?</h2>
+            <div class="box-container">
+                <div class="slider-wrapper">
+                    <button class="bef-slide slide-button material-symbols-rounded">chevron_left</button>
+                    <div class="box-list">
+                        <div class="box amoureux">
+                            <div class="box-element">
+                                <h3>En Amoureux</h3>
+                                <p>Decouvrez avec votre moitié, les endroits les plus romantiques et enivrant du globle.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="box amis">
+                            <div class="box-element">
+                                <h3>Entre Amis</h3>
+                                <p>Ici vous trouverez votre bonheur pour profiter de belle vacance tous ensemble.</p>
+                            </div>
+                        </div>
+                        <div class="box famille">
+                            <div class="box-element">
+                                <h3>En Famille</h3>
+                                <p>Decouvrez ces endroits ou vous pourrez profiter pleinement en famille.</p>
+                            </div>
+                        </div>
+                        <div class="box seminaire">
+                            <div class="box-element">
+                                <h3>En Seminaire</h3>
+                                <p> C'est le moment de renforcer votre esprit d'équipe, tout en profitant d'un cadre
+                                    adapté.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="aft-slide slide-button material-symbols-rounded">chevron_right</button>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="fiches-section section">
+            <div class="box-filter">
+                <div class="filtres">
+                    <h3>Filtres</h3>
+                    <div class="box-button">
+                        <button class="btn-trierC">Trier par budget croissant</button><br>
+                        <button class="btn-trierD">Trier par budget décroissant</button><br>
+                    </div>
+
+                    <form method="get" action="#" class="continent-form">Quel continent envisagez vous ?:
+                        <div class="form-group">
+                            <input type="checkbox" name="Europe" id="europe">
+                            <label for="europe">Europe</label>
+                        </div>
+                        <div class="form-group">
+                            <input type="checkbox" name="Amerique" id="amerique">
+                            <label for="amerique">Amerique</label>
+                        </div>
+                        <div class="form-group">
+                            <input type="checkbox" name="Oceanie" id="oceanie">
+                            <label for="oceanie">Oceanie</label>
+                        </div>
+                        <div class="form-group">
+                            <input type="checkbox" name="Asie" id="asie">
+                            <label for="asie">Asie</label>
+                        </div>
+                        <div class="form-group">
+                            <input type="checkbox" name="Afrique" id="afrique">
+                            <label for="afrique">Afrique</label>
+                        </div>
+                    </form>
+                    <form>
+                        <p>Budget maximum:</p>
+                        <input type="range" value="0" min="200" max="2000" step="100" id="budgetMax"
+                            oninput="this.nextElementSibling.value = this.value">
+                        <output>0</output>€
+                    </form>
+                </div>
+
+            </div>
+
+            <div class="travail-fiches fiches"></div>
+            <div class="reposer-fiches fiches"></div>
+            <div class="decouverte-fiches fiches"></div>
+            <div class="amuser-fiches fiches"></div>
+            <div class="tout-fiches fiches"></div>
+            <div class="amoureux-fiches fiches"></div>
+            <div class="amis-fiches fiches"></div>
+            <div class="famille-fiches fiches"></div>
+            <div class="seminaire-fiches fiches"></div>
+
+        </section>
+
+        
+
+    </main>
+
+</body>
+
+</html>

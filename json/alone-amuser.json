@@ -1,0 +1,139 @@
+
+[
+    {
+        "id": 1,
+        "ville": "Berlin",
+        "pays": "Allemagne",
+        "continent": "Europe",
+        "budget": 490,
+        "description": "Vie nocturne dynamique, de nombreux clubs. Une ville ouverte et accueillante pour les voyageurs solo.",
+        "image": "images/berlin.jpg"
+    },
+    {
+        "id": 2,
+        "ville": "Barcelone",
+        "pays": "Espagne",
+        "continent": "Europe",
+        "budget": 420,
+        "description": "Fêtes sur la plage et des clubs de renommée mondiale. Rencontres faciles dans les quartiers animés.",
+        "image": "images/barcelone.jpg"
+    },
+    {
+        "id": 3,
+        "ville": "Bangkok",
+        "pays": "Thailande",
+        "continent": "Asie",
+        "budget": 210,
+        "description": "Vie nocturne animée avec aussi des soirées sur les toits. Activités variées, avec des temples, des excursions.",
+        "image": "images/bangkok.jpg"
+    },
+    {
+        "id": 4,
+        "ville": "Tokyo",
+        "pays": "Japon",
+        "continent": "Asie",
+        "budget": 560,
+        "description": "Vie nocturne électrique avec des karaokés, des izakayas. Des rencontres dans les quartiers animés.",
+        "image": "images/tokyo.jpg"
+    },
+    {
+        "id": 5,
+        "ville": "Rio de Janeiro",
+        "pays": "Bresil",
+        "continent": "Amerique",
+        "budget": 350,
+        "description": "Fêtes sur les plages de Copacabana et Ipanema. Rencontres chaleureuses, le carnaval, ville culturelle vibrante.",
+        "image": "images/rio.jpg"
+    },
+    {
+        "id": 6,
+        "ville": "Buenos Aires",
+        "pays": "Argentine",
+        "continent": "Amerique",
+        "budget": 280,
+        "description": "Tango, bars à vin et soirées animées. Profitez des Théâtres, galeries d'art et événements culturels.",
+        "image": "images/buenos-aires.jpg"
+    },
+    {
+        "id": 7,
+        "ville": "Nairobi",
+        "pays": "Kenya",
+        "continent": "Afrique",
+        "budget": 280,
+        "description": "Vie nocturne dynamique avec des bars et des clubs. Safari et exploration de la nature à proximité.",
+        "image": "images/nairobi.jpg"
+    },
+    {
+        "id": 8,
+        "ville": "New York City",
+        "pays": "Etats-Unis",
+        "continent": "Amerique",
+        "budget": 700,
+        "description": "Vie nocturne variée avec des clubs, des spectacles. Activités culturelles, shopping et gastronomie diversifiée.",
+        "image": "images/new-york-city.jpg"
+    },
+    {
+        "id": 9,
+        "ville": "Tel Aviv",
+        "pays": "Israel",
+        "continent": "Asie",
+        "budget": 420,
+        "description": "Plages animées, bars branchés et fêtes en plein air. Activités variées, de l'histoire à la vie nocturne.",
+        "image": "images/tel-aviv.jpg"
+    },
+    {
+        "id": 10,
+        "ville": "Cape Town",
+        "pays": "Afrique du Sud",
+        "continent": "Afrique",
+        "budget": 350,
+        "description": "Vie nocturne le long de Long Street et Waterfront. Activités variées, des plages aux vignobles environnants",
+        "image": "images/cape-town.jpg"
+    },
+    {
+        "id": 11,
+        "ville": "Queenstown",
+        "pays": "Nouvelle-Zelande",
+        "continent": "Oceanie",
+        "budget": 500,
+        "description": "Une destination de renommée mondiale pour les voyageurs en quête d'aventure et de divertissement.",
+        "image": "images/queenstown.jpg"
+    },
+    {
+        "id": 12,
+        "ville": "Gold Coast",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 540,
+        "description": "Une destination balnéaire animée, réputée pour ses plages de sable doré et sa vie nocturne vibrante.",
+        "image": "images/gold-coast.jpg"
+    },
+    {
+        "id": 13,
+        "ville": "Fidji",
+        "pays": "îles Fidji",
+        "continent": "Oceanie",
+        "budget": 370,
+        "description": "Les îles Fidji offrent un paradis tropical parfait pour ceux qui recherchent le soleil, la mer et la détente.",
+        "image": "images/fidji.jpg"
+    },
+    {
+        "id": 14,
+        "ville": "Lisbonne",
+        "pays": "Portugal",
+        "continent": "Europe",
+        "budget": 415,
+        "description": "Une ville ensoleillée et animée avec une atmosphère décontractée, des quartiers historiques charmants.",
+        "image": "images/lisbonne.jpg"
+    },
+    {
+        "id": 15,
+        "ville": "Marrakech",
+        "pays": "Maroc",
+        "continent": "Afrique",
+        "budget": 360,
+        "description": "Une ville enchanteresse, connue pour ses souks animés, ses jardins luxuriants et sa cuisine délicieuse.",
+        "image": "images/marrakech.jpg"
+    }
+   
+]

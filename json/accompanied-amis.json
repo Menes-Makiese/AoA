@@ -1,0 +1,138 @@
+[
+    
+    {
+        "id": 1,
+        "ville": "Rio de Janeiro",
+        "pays": "Bresil",
+        "continent": "Amerique",
+        "budget": 350,
+        "description": "Célèbre pour ses plages magnifiques, ses fêtes endiablées, son carnaval animé et sa culture vibrante.",
+        "image": "images/rio.jpg"
+    },
+    {
+        "id": 2,
+        "ville": "Mexico City",
+        "pays": "Mexique",
+        "continent": "Amerique",
+        "budget": 637,
+        "description": "Ville fascinante offrant une cuisine délicieuse, une vie nocturne animée et une variété d'activités.",
+        "image": "images/mexico-city.jpg"
+    },
+    {
+        "id": 3,
+        "ville": "Buenos Aires",
+        "pays": "Argentine",
+        "continent": "Amerique",
+        "budget": 280,
+        "description": "Une ville élégante avec une scène musicale dynamique, une cuisine délicieuse et une vie nocturne animée.",
+        "image": "images/buenos-aires.jpg"
+    },
+    {
+        "id": 4,
+        "ville": "Berlin",
+        "pays": "Allemagne",
+        "continent": "Europe",
+        "budget": 490,
+        "description": "Connue pour sa scène artistique alternative, sa vie nocturne légendaire, sa diversité culturelle.",
+        "image": "images/berlin.jpg"
+    },
+    {
+        "id": 5,
+        "ville": "Barcelone",
+        "pays": "Espagne",
+        "continent": "Europe",
+        "budget": 420,
+        "description": "Ville dynamique offrant une architecture magnifique, des plages pittoresques, une vie nocturne animée.",
+        "image": "images/barcelone.jpg"
+    },
+    {
+        "id": 6,
+        "ville": "Prague",
+        "pays": "République Tchèque",
+        "continent": "Europe",
+        "budget": 420,
+        "description": "Une architecture impressionnante, une vie nocturne animée et une atmosphère enchanteresse.",
+        "image": "images/prague.jpg"
+    },
+    {
+        "id": 7,
+        "ville": "Tokyo",
+        "pays": "Japon",
+        "continent": "Asie",
+        "budget": 560,
+        "description": "Métrople fascinante avec une culture dynamique, vie nocturne animée et une technologie de pointe.",
+        "image": "images/tokyo.jpg"
+    },
+    {
+        "id": 8,
+        "ville": "Bangkok",
+        "pays": "Thailande",
+        "continent": "Asie",
+        "budget": 210,
+        "description": "Célèbre pour ses temples magnifiques, sa cuisine de rue délicieuse, sa vie nocturne animée.",
+        "image": "images/bangkok.jpg"
+    },
+    {
+        "id": 9,
+        "ville": "Séoul",
+        "pays": "Corée du Sud",
+        "continent": "Asie",
+        "budget": 845,
+        "description": "Une ville moderne avec une scène de mode émergente, une cuisine délicieuse, une vie nocturne animée.",
+        "image": "images/seoul.jpg"
+    },
+    {
+        "id": 10,
+        "ville": "Le Cap",
+        "pays": "Afrique du Sud",
+        "continent": "Afrique",
+        "budget": 1500,
+        "description": "Une ville avec des plages magnifiques, une cuisine délicieuse, des possibilités d'aventure en plein air.",
+        "image": "images/le-cap.jpg"
+    },
+    {
+        "id": 11,
+        "ville": "Marrakech",
+        "pays": "Maroc",
+        "continent": "Afrique",
+        "budget": 315,
+        "description": "Une ville envoûtante avec des souks animés, une architecture magnifique, une cuisine délicieuse.",
+        "image": "images/marrakech.jpg"
+    },
+    {
+        "id": 12,
+        "ville": "Nairobi",
+        "pays": "Kenya",
+        "continent": "Afrique",
+        "budget": 280,
+        "description": "Une destination émergente avec une cuisine délicieuse, vie nocturne animée et des safari à proximité.",
+        "image": "images/nairobi.jpg"
+    },
+    {
+        "id": 13,
+        "ville": "Sydney",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 730,
+        "description": "Célèbre pour son emblématique Opéra, ses plages magnifiques, sa vie nocturne animée.",
+        "image": "images/sydney.jpg"
+    },
+    {
+        "id": 14,
+        "ville": "Auckland",
+        "pays": "Nouvelle-Zélande",
+        "continent": "Oceanie",
+        "budget": 700,
+        "description": "Entourée par une nature spectaculaire, la diversité gastronomique, et plein d'activité.",
+        "image": "images/auckland.jpg"
+    },
+    {
+        "id": 15,
+        "ville": "Melbourne",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 560,
+        "description": "Une ville vibrante avec une cuisine délicieuse, des cafés animés et une vie nocturne variée.",
+        "image": "images/melbourne.jpg"
+    }
+]

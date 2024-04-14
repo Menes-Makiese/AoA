@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "ville": "Marrakech",
+        "pays": "Maroc",
+        "continent": "Afrique",
+        "budget": 315,
+        "description": "Explorez les souks colorés, le palais de la Bahia et les jardins majestueux. Plongez-vous dans la médina animée.",
+        "image": "images/marrakech.jpg"
+    },
+    {
+        "id": 2,
+        "ville": "Luang Prabang",
+        "pays": "Laos",
+        "continent": "Asie",
+        "budget": 245,
+        "description": "Visitez des temples bouddhistes entourés de collines verdoyantes et découvrez une atmosphère paisible.",
+        "image": "images/luang-prabang.jpg"
+    },
+    {
+        "id": 3,
+        "ville": "Chefchaouen",
+        "pays": "Maroc",
+        "continent": "Afrique",
+        "budget": 315,
+        "description": "Promenez-vous dans les rues bleues de cette ville montagneuse du Rif. Découvrez l'artisanat local.",
+        "image": "images/chefchaouen.jpg"
+    },
+    {
+        "id": 4,
+        "ville": "Rotorua",
+        "pays": "Nouvelle-Zelande",
+        "continent": "Oceanie",
+        "budget": 450,
+        "description": "Une ville thermale située sur l'île du Nord. Offre une expérience culturelle et naturelle fascinante.",
+        "image": "images/rotorua.jpg"
+    },
+    {
+        "id": 5,
+        "ville": "Hanoi",
+        "pays": "Vietnam",
+        "continent": "Asie",
+        "budget": 245,
+        "description": "Découvrez l'histoire vietnamienne au travers de ses temples et musées. Goûtez à la cuisine de rue vibrante.",
+        "image": "images/hanoi.jpg"
+    },
+    {
+        "id": 6,
+        "ville": "Petra",
+        "pays": "Jordanie",
+        "continent": "Asie",
+        "budget": 420,
+        "description": "La cité rose antique taillée dans la roche. Randonnez dans le désert pour découvrir des trésors archéologiques.",
+        "image": "images/petra.jpg"
+    },
+    {
+        "id": 7,
+        "ville": "Cape Town",
+        "pays": "Afrique du Sud",
+        "continent": "Afrique",
+        "budget": 560,
+        "description": "Profitez de vues spectaculaires depuis la montagne de la Table. Explorez les marchés animés, les vignobles.",
+        "image": "images/cape-town.jpg"
+    },
+    {
+        "id": 8,
+        "ville": "Darwin",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 490,
+        "description": "Ville multiculturelle offre une atmosphère décontractée et un accès facile à des merveilles naturelles.",
+        "image": "images/darwin.jpg"
+    },
+    {
+        "id": 9,
+        "ville": "Cusco",
+        "pays": "Pérou",
+        "continent": "Amerique",
+        "budget": 245,
+        "description": "Découvrez l'architecture inca et l'histoire riche de la ville. Explorer le Machu Picchu.",
+        "image": "images/cusco.jpg"
+    },
+    {
+        "id": 10,
+        "ville": "Dubrovnik",
+        "pays": "Croatie",
+        "continent": "Europe",
+        "budget": 560,
+        "description": "Parcourez les rues de la vieille ville fortifiée. Profitez de vues panoramiques sur la mer Adriatique.",
+        "image": "images/dubrovnik.jpg"
+    },
+    {
+        "id": 11,
+        "ville": "Nouméa",
+        "pays": "Nouvelle-Calédonie",
+        "continent": "Oceanie",
+        "budget": 620,
+        "description": "Cette ville cosmopolite offre un mélange unique de culture française et de mode de vie insulaire.",
+        "image": "images/noumea.jpg"
+    },
+    {
+        "id": 12,
+        "ville": "Ljubljana",
+        "pays": "Slovénie",
+        "continent": "Europe",
+        "budget": 420,
+        "description": "Ljubljana est une petite capitale européenne pleine de caractère et de beauté.",
+        "image": "images/ljubljana.jpg"
+    },
+    {
+        "id": 13,
+        "ville": "Bergen",
+        "pays": "Norvege",
+        "continent": "Europe",
+        "budget": 645,
+        "description": "Ville portuaire pittoresque entourée de montagnes majestueuses et de fjords spectaculaires.",
+        "image": "images/bergen.jpg"
+    },
+    {
+        "id": 14,
+        "ville": "Valparaiso",
+        "pays": "Chili",
+        "continent": "Amerique",
+        "budget": 320,
+        "description": "Surnommée la \"Perle du Pacifique\", est une ville portuaire colorée et bohème sur la côte centrale du Chili.",
+        "image": "images/valparaiso.jpg"
+    },
+    {
+        "id": 15,
+        "ville": "Portland",
+        "pays": "Etats-Unis",
+        "continent": "Amerique",
+        "budget": 800,
+        "description": "Réputée pour sa culture artisanale, sa scène gastronomique innovante et son amour pour la nature.",
+        "image": "images/portland.jpg"
+    }
+]

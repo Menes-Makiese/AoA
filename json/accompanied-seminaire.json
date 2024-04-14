@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "ville": "Johannesburg",
+        "pays": "Afrique du Sud",
+        "continent": "Afrique",
+        "budget": 440,
+        "description": "Centre économique majeur avec d'excellentes installations pour les conférences et des options de loisirs.",
+        "image": "images/johannesburg.jpg"
+    },
+    {
+        "id": 2,
+        "ville": "Nairobi",
+        "pays": "Kenya",
+        "continent": "Afrique",
+        "budget": 280,
+        "description": "En pleine croissance avec des infrastructures modernes et des possibilités de détente en nature.",
+        "image": "images/nairobi.jpg"
+    },
+    {
+        "id": 3,
+        "ville": "Casablanca",
+        "pays": "Maroc",
+        "continent": "Afrique",
+        "budget": 440,
+        "description": "Ville dynamique avec des hôtels et centres de conférences de qualité et des attractions culturelles.",
+        "image": "images/casablanca.jpg"
+    },
+    {
+        "id": 4,
+        "ville": "Washington D.C.",
+        "pays": "Etats-Unis",
+        "continent": "Amerique",
+        "budget": 825,
+        "description": "C'est une capitale politique avec de nombreux centres de conférence et des musées.",
+        "image": "images/washington.jpg"
+    },
+    {
+        "id": 5,
+        "ville": "Sao Paulo",
+        "pays": "Bresil",
+        "continent": "Amerique",
+        "budget": 660,
+        "description": "Des excellentes infrastructures pour les affaires et de nombreuses options de divertissement.",
+        "image": "images/sao-paulo.jpg"
+    },
+    {
+        "id": 6,
+        "ville": "Bogota",
+        "pays": "Colombie",
+        "continent": "Amerique",
+        "budget": 260,
+        "description": " Capitale dynamique avec des centres de congrès modernes et des options culturelle.",
+        "image": "images/bogota.jpg"
+    },
+    {
+        "id": 7,
+        "ville": "Singapour",
+        "pays": " ",
+        "continent": "Asie",
+        "budget": 1190,
+        "description": "Centre financier avec des installations de conférence de classe mondiale et une excellente connectivité.",
+        "image": "images/singapour.jpg"
+    },
+    {
+        "id": 8,
+        "ville": "Hong Kong",
+        "pays": "Chine",
+        "continent": "Asie",
+        "budget": 615,
+        "description": "Hub économique international avec des hôtels de qualité et une vue imprenable sur la ville.",
+        "image": "images/hong-kong.jpg"
+    },
+    {
+        "id": 9,
+        "ville": "Tokyo",
+        "pays": "Japon",
+        "continent": "Asie",
+        "budget": 560,
+        "description": "D'excellentes installations pour les réunions d'affaires et des expériences culturelles uniques.",
+        "image": "images/tokyo.jpg"
+    },
+    {
+        "id": 10,
+        "ville": "Paris",
+        "pays": "France",
+        "continent": "Europe",
+        "budget": 1500,
+        "description": "Capitale de la mode et des affaires avec des centres de conférence renommés, des attractions historiques.",
+        "image": "images/paris.jpg"
+    },
+    {
+        "id": 11,
+        "ville": "Londres",
+        "pays": "Royaume-Uni",
+        "continent": "Europe",
+        "budget": 825,
+        "description": "Centre financier international avec une variété de lieux de conférence et une vie urbaine dynamique.",
+        "image": "images/londres.jpg"
+    },
+    {
+        "id": 12,
+        "ville": "Berlin",
+        "pays": "Allemagne",
+        "continent": "Europe",
+        "budget": 490,
+        "description": "Ville moderne avec des infrastructures de conférence de qualité et une scène artistique florissante.",
+        "image": "images/berlin.jpg"
+    },
+    {
+        "id": 13,
+        "ville": "Sydney",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 730,
+        "description": "Métropole dynamique avec des installations modernes pour les conférences et un cadre pittoresque.",
+        "image": "images/sydney.jpg"
+    },
+    {
+        "id": 14,
+        "ville": "Melbourne",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 560,
+        "description": "Ville culturelle avec des centres de conférence de qualité et une scène artistique dynamique.",
+        "image": "images/melbourne.jpg"
+    },
+    {
+        "id": 15,
+        "ville": "Auckland",
+        "pays": "Nouvelle-Zélande",
+        "continent": "Oceanie",
+        "budget": 700,
+        "description": "Auckland offre des installations pour les réunions d'affaires et une belle nature à explorer.",
+        "image": "images/auckland.jpg"
+    }
+]

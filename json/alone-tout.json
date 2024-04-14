@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "ville": "Chiang Mai",
+        "pays": "Thailande",
+        "continent": "Asie",
+        "budget": 245,
+        "description": "Chiang Mai offre une atmosphère détendue, une culture riche et une abondance d'activités.",
+        "image": "images/chiang-mai.jpg"
+    },
+    {
+        "id": 2,
+        "ville": "Lisbonne",
+        "pays": "Portugal",
+        "continent": "Europe",
+        "budget": 490,
+        "description": "Cette ville côtière combine l'histoire traditionnelle avec une ambiance contemporaine.",
+        "image": "images/lisbonne.jpg"
+    },
+    {
+        "id": 3,
+        "ville": "Prague",
+        "pays": "République Tchèque",
+        "continent": "Europe",
+        "budget": 420,
+        "description": "Une ville romantique avec des places historiques et une vie nocturne animée.",
+        "image": "images/prague.jpg"
+    },
+    {
+        "id": 4,
+        "ville": "Ubud",
+        "pays": "Indonésie",
+        "continent": "Asie",
+        "budget": 300,
+        "description": "Un havre de paix culturel niché au cœur de l'île indonésienne de Bali, offrant une atmosphère zen.",
+        "image": "images/ubud.jpg"
+    },
+    {
+        "id": 5,
+        "ville": "Seville",
+        "pays": "Espagne",
+        "continent": "Europe",
+        "budget": 490,
+        "description": "Ses jardins luxuriants, ses festivals flamenco, sa cuisine délicieuse, Séville respire la passion espagnole.",
+        "image": "images/seville.jpg"
+    },
+    {
+        "id": 6,
+        "ville": "Medellin",
+        "pays": "Colombie",
+        "continent": "Amerique",
+        "budget": 280,
+        "description": "Medellín s'est transformée en une ville moderne avec des parcs innovants et une vie nocturne animée.",
+        "image": "images/medellin.jpg"
+    },
+    {
+        "id": 7,
+        "ville": "La Havane",
+        "pays": "Cuba",
+        "continent": "Amerique",
+        "budget": 330,
+        "description": "Une ville fascinante on y découvre l'histoire, la culture vibrante et l'atmosphère unique de la vie cubaine.",
+        "image": "images/havane.jpg"
+    },
+    {
+        "id": 8,
+        "ville": "Auckland",
+        "pays": "Nouvelle Zelande",
+        "continent": "Oceanie",
+        "budget": 700,
+        "description": "Auckland propose une vie urbaine dynamique, des îles accessibles, une cuisine diversifiée.",
+        "image": "images/auckland.jpg"
+    },
+    {
+        "id": 9,
+        "ville": "Quebec",
+        "pays": "Canada",
+        "continent": "Amerique",
+        "budget": 350,
+        "description": "Une ville charmante et historique où l'on peut découvrir une culture unique et une nature spectaculaire. ",
+        "image": "images/quebec.jpg"
+    },
+    {
+        "id": 10,
+        "ville": "Melbourne",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 560,
+        "description": "Connu pour son art de rue, ses cafés branchés, ses événements culturels et sa diversité culinaire.",
+        "image": "images/melbourne.jpg"
+    },
+    {
+        "id": 11,
+        "ville": "Cairns",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 350,
+        "description": "Une Porte d'entrée vers la Grande Barrière de Corail et la forêt tropicale de Daintree..",
+        "image": "images/cairns.jpg"
+    },
+    {
+        "id": 12,
+        "ville": "Seoul",
+        "pays": "Corée du Sud",
+        "continent": "Asie",
+        "budget": 460,
+        "description": "Séoul est une ville dynamique où l'on peut découvrir une fusion fascinante entre tradition et modernité.",
+        "image": "images/seoul.jpg"
+    },
+    {
+        "id": 13,
+        "ville": "Marrakech",
+        "pays": "Maroc",
+        "continent": "Afrique",
+        "budget": 360,
+        "description": "Une ville envoûtante située offrant une atmosphère vibrante, une riche histoire et une culture fascinante.",
+        "image": "images/marrakech.jpg"
+    },
+    {
+        "id": 14,
+        "ville": "Le Cap",
+        "pays": "Afrique du Sud",
+        "continent": "Afrique",
+        "budget": 360,
+        "description": "Le Cap vous offre une combinaison unique de beauté naturelle, d'aventure et de culture.",
+        "image": "images/le-cap.jpg"
+    },
+    {
+        "id": 15,
+        "ville": "Zanzibar",
+        "pays": "Tanzanie",
+        "continent": "Afrique",
+        "budget": 330,
+        "description": "Archipel exotique offrant des plages de sable blanc, une culture swahilie riche et une histoire fascinante.",
+        "image": "images/zanzibar.jpg"
+    }
+]

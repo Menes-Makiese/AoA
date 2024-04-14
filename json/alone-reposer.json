@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "ville": "Kyoto",
+        "pays": "Japon",
+        "continent": "Asie",
+        "budget": 770,
+        "description": "Une ambiance sereine avec des jardins zen et des cérémonies de thé pour une expérience apaisante.",
+        "image": "images/kyoto.jpg"
+    },
+    {
+        "id": 2,
+        "pays": "Islande",
+        "ville": "Reykjavik",
+        "continent": "Europe",
+        "budget": 1085,
+        "description": "Air pur et ambiance calme dans cette ville entourée de nature, profiter des aurores boréales en hiver.",
+        "image": "images/reykjavik.jpg"
+    },
+    {
+        "id": 3,
+        "pays": "Nouvelle-Zélande",
+        "ville": "Wellington",
+        "continent": "Oceanie",
+        "budget": 840,
+        "description": "Paysages côtiers pittoresques pour des promenades relaxantes et une ambiance décontractée.",
+        "image": "images/wellington.jpg"
+    },
+    {
+        "id": 4,
+        "pays": "Canada",
+        "ville": "Quebec",
+        "continent": "Amerique",
+        "budget": 350,
+        "description": "Une architecture pittoresque. Promenades paisibles le long du fleuve Saint-Laurent.",
+        "image": "images/quebec.jpg"
+    },
+    {
+        "id": 5,
+        "pays": "Indonésie",
+        "ville": "Ubud",
+        "continent": "Asie",
+        "budget": 300,
+        "description": "Entouré de rizières et de forêts tropicales. Des centres de bien-être et spas pour la relaxation.",
+        "image": "images/ubud.jpg"
+    },
+    {
+        "id": 6,
+        "pays": "Suisse",
+        "ville": "Zurich",
+        "continent": "Europe",
+        "budget": 840,
+        "description": "Belle vue sur le lac et les Alpes suisses. Atmosphère propre et sûre avec des parcs pour se détendre.",
+        "image": "images/zurich.jpg"
+    },
+    {
+        "id": 7,
+        "pays": "Mexique",
+        "ville": "Tulum",
+        "continent": "Amerique",
+        "budget": 900,
+        "description": "Vous pouvez vous détendre sur les plages isolées, explorer les cenotes (puits naturels)..",
+        "image": "images/tulum.jpg"
+    },
+    {
+        "id": 8,
+        "pays": "Danemark",
+        "ville": "Copenhague",
+        "continent": "Europe",
+        "budget": 1085,
+        "description": "Ambiance décontractée et conviviale. Belle vue sur le port et les canaux. Options de détente dans les jardins.",
+        "image": "images/copenhague.jpg"
+    },
+    {
+        "id": 9,
+        "pays": "Thailande",
+        "ville": "Chiang Mai",
+        "continent": "Asie",
+        "budget": 245,
+        "description": "Temples paisibles et ambiance spirituelle. Cuisine thaïlandaise réputée pour ses saveurs apaisantes.",
+        "image": "images/chiang-mai.jpg"
+    },
+    {
+        "id": 10,
+        "pays": "Argentine",
+        "ville": "Bariloche",
+        "continent": "Amerique",
+        "budget": 455,
+        "description": "Paysages de montagnes et lacs paisibles. Atmosphère tranquille dans cette ville entourée de nature",
+        "image": "images/bariloche.jpg"
+    },
+    {
+        "id": 11,
+        "pays": "Nouvelle-Caledonie",
+        "ville": "Nouméa",
+        "continent": "Oceanie",
+        "budget": 620,
+        "description": "Nouméa est parfaite pour se détendre et se reposer. Vous pouvezfaire de la plongée avec tuba..",
+        "image": "images/noumea.jpg"
+    },
+    {
+        "id": 12,
+        "pays": "Australie",
+        "ville": "Port Douglas",
+        "continent": "Oceanie",
+        "budget": 875,
+        "description": "Port Douglas offre une atmosphère paisible et relaxante. Vous pouvez faire de la plongée en apnée..",
+        "image": "images/port-douglas.jpg"
+    },
+    {
+        "id": 13,
+        "pays": "Maroc",
+        "ville": "Essaouira",
+        "continent": "Afrique",
+        "budget": 440,
+        "description": "Connu pour son atmosphère décontractée, c'est l'endroit idéal pour se détendre et se ressourcer.",
+        "image": "images/essaouira.jpg"
+    },
+    {
+        "id": 14,
+        "pays": "Namibie",
+        "ville": "Swakopmund",
+        "continent": "Afrique",
+        "budget": 335,
+        "description": "Offre une atmosphère paisible et relaxante. Ville balnéaire entre le désert du Namib et l'océan Atlantique",
+        "image": "images/swakopmund.jpg"
+    },
+    {
+        "id": 15,
+        "pays": "Zimbabwe",
+        "ville": "Victoria Falls",
+        "continent": "Afrique",
+        "budget": 460,
+        "description": "Destination spectaculaire! Avec ses majestueuses chutes d'eau et ses paysages naturels époustouflants.",
+        "image": "images/victoria-falls.jpg"
+    }
+    
+]

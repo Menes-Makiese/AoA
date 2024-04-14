@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "ville": "Paris",
+        "pays": "France",
+        "continent": "Europe",
+        "budget": 1500,
+        "description": "La Ville de l'Amour est réputée pour sa romance, ses cafés pittoresques, ses croisières sur la Seine.",
+        "image": "images/paris.jpg"
+    },
+    {
+        "id": 2,
+        "ville": "Venise",
+        "pays": "Italie",
+        "continent": "Europe",
+        "budget": 1850,
+        "description": "Ses canaux romantiques et son architecture charmante en font une destination emblématiques.",
+        "image": "images/venise.jpg"
+    },
+    {
+        "id": 3,
+        "ville": "Santorini",
+        "pays": "Grece",
+        "continent": "Europe",
+        "budget": 1150,
+        "description": "Cette île grecque offre des vues à couper le souffle, des couchers de soleil romantiques.",
+        "image": "images/santorin.jpg"
+    },
+    {
+        "id": 4,
+        "ville": "Orleans Parish",
+        "pays": "Etats-Unis",
+        "continent": "Amerique",
+        "budget": 910,
+        "description": "Réputée pour son ambiance musicale, son architecture historique, ses rues pavées, et sa cuisine délicieuse.",
+        "image": "images/nouvelle-orleans.jpg"
+    },
+    {
+        "id": 5,
+        "ville": "Quebec",
+        "pays": "Etats-Unis",
+        "continent": "Amerique",
+        "budget": 1600,
+        "description": "La vieille ville offre une atmosphère européenne, une vue magnifique sur le fleuve Saint-Laurent.",
+        "image": "images/quebec.jpg"
+    },
+    {
+        "id": 6,
+        "ville": "Buenos Aires",
+        "pays": "Argentine",
+        "continent": "Amerique",
+        "budget": 1150,
+        "description": "Surnommée \"Paris de l'Amérique du Sud\", Buenos Aires combine une riche culture et une ambiance passionnée.",
+        "image": "images/buenos-aires.jpg"
+    },
+    {
+        "id": 7,
+        "ville": "Kyoto",
+        "pays": "Japon",
+        "continent": "Asie",
+        "budget": 1227,
+        "description": " Connue pour ses temples, jardins zen, et ses geishas, Kyoto offre une atmosphère calme et romantique.",
+        "image": "images/kyoto.jpg"
+    },
+    {
+        "id": 8,
+        "ville": "Udaipur",
+        "pays": "Inde",
+        "continent": "Asie",
+        "budget": 502,
+        "description": "Surnommée la \"Venise de l'Est\" , elle est célèbre pour ses lacs, palais et couchers de soleil romantiques.",
+        "image": "images/udaipur.jpg"
+    },
+    {
+        "id": 9,
+        "ville": "Luang Prabang",
+        "pays": "Laos",
+        "continent": "Asie",
+        "budget": 750,
+        "description": "Une ville charmante avec une architecture française coloniale, offrant une atmosphère paisible.",
+        "image": "images/luang-prabang.jpg"
+    },
+    {
+        "id": 10,
+        "ville": "Marrakech",
+        "pays": "Maroc",
+        "continent": "Afrique",
+        "budget": 1150,
+        "description": " Avec ses marchés animés, ses jardins luxuriants, Marrakech offre une expérience romantique unique.",
+        "image": "images/marrakech.jpg"
+    },
+    {
+        "id": 11,
+        "ville": "Le Cap",
+        "pays": "Afrique du Sud",
+        "continent": "Afrique",
+        "budget": 1500,
+        "description": "Ville côtière avec une vue spectaculaire sur l'océan, une cuisine délicieuse et des vignobles.",
+        "image": "images/le-cap.jpg"
+    },
+    {
+        "id": 12,
+        "ville": "Zanzibar",
+        "pays": "Tanzanie",
+        "continent": "Afrique",
+        "budget": 1500,
+        "description": "Cette île tropicale offre des plages de sable blanc, des marchés animés et une atmosphère détendue.",
+        "image": "images/zanzibar.jpg"
+    },
+    {
+        "id": 13,
+        "ville": "Queenstown",
+        "pays": "Nouvelle Zélande",
+        "continent": "Oceanie",
+        "budget": 2250,
+        "description": "Entre montagnes et lacs, Queenstown offre des paysages époustouflants et des activités romantiques.",
+        "image": "images/queenstown.jpg"
+    },
+    {
+        "id": 14,
+        "ville": "Sydney",
+        "pays": "Australie",
+        "continent": "Oceanie",
+        "budget": 2000,
+        "description": "Avec son célèbre opéra et ses plages magnifiques, Sydney est une destination idéale pour les couples.",
+        "image": "images/sydney.jpg"
+    },
+    {
+        "id": 15,
+        "ville": "Anau",
+        "pays": "Polynésie française",
+        "continent": "Oceanie",
+        "budget": 4000,
+        "description": "Une île paradisiaque avec des lagons turquoise, une intimité parfaite pour les couples.",
+        "image": "images/borabora.jpg"
+    }
+]
