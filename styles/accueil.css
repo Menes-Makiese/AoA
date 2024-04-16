@@ -9,8 +9,7 @@
 .icone-accueil p {
     font-size: 1.5em;
     padding-left: 5px;
-    font-weight: lighter;
-    color: hsl(58, 87%, 70%);
+    color: #fff;
     font-family: "Covered By Your Grace";
 }
 
@@ -70,26 +69,21 @@
     position: relative;
     cursor: pointer;
     overflow: hidden;
-}
-
-.video:hover {
-    animation: scale 0.3s ease-in forwards;
-}
-
-@keyframes scale {
-    from {
-        transform: scale(1);
-    }
-    to{
-        transform: scale(1.2);
-    } 
+    
 }
 
 .video.alone,
 .video.accompanied {
     opacity: 0;
     transition: opacity 0.8s ease-in;
+    transition: transform 0.3s;
 }
+
+.video.alone:hover,
+.video.accompanied:hover {
+    transform: scale(1.1)
+}
+
 
 .video_aloneElement {
     font-size: 1.1em;
