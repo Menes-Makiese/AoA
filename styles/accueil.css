@@ -75,13 +75,12 @@
 .video.alone,
 .video.accompanied {
     opacity: 0;
-    transition: opacity 0.8s ease-in;
-    transition: transform 0.3s;
+    transition: opacity 0.8s ease-in, transform 0.3s;
 }
 
 .video.alone:hover,
-.video.accompanied:hover {
-    transform: scale(1.1)
+.video.accompanied:hover {  
+    transform: scale(1.15);
 }
 
 
